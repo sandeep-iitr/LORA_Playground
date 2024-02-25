@@ -7,7 +7,11 @@ Welcome to LORA_Playground! This repository is dedicated to demonstrating Low-Ra
 Low-rank adaptation (LORA) is a technique designed to adapt pre-trained deep-learning models to new tasks with minimal additional parameters. By focusing on low-rank updates to model weights, LORA enables efficient fine-tuning, making it an ideal choice for researchers and practitioners with limited computational budgets.
 
 # Repository Structure
-*LORA_Image_Classification_Example_1.ipynb*: A Jupyter notebook containing a step-by-step implementation of LORA for fine-tuning a pre-trained model on a custom dataset.
+Jupyter notebooks containing a step-by-step implementation of LORA for fine-tuning a pre-trained model on a custom dataset.
+
+1. *LORA_Resnet50_Food_Classificaton.ipynb*
+2. *LORA_Resnet50_PET_Classification.ipynb*
+
 - More examples will be added as we discuss other use cases.
 
 ![Sample Image from Dataset](Sample_image_dataset.png)
