@@ -10,6 +10,8 @@ Low-rank adaptation (LORA) is a technique designed to adapt pre-trained deep-lea
 *LORA_Image_Classification_Example_1.ipynb*: A Jupyter notebook containing a step-by-step implementation of LORA for fine-tuning a pre-trained model on a custom dataset.
 - More examples will be added as we discuss other use cases.
 
+![Sample Image from Dataset](Sample_image_dataset.png)
+
 
 ## Fine-Tuning with LORA - A High-Level Summary
 
